@@ -1,19 +1,8 @@
-# new
+# Info about rick and morty
 
-## Project setup
-```
-npm install
-```
+Projeto em Vuejs e Appolo Graphql que lista informações sobre a série Rick e Morty.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Lista de Episódios com ordenação e busca. (Lista os personagens que participaram do episódio).
+- Lista de personagens com ordenação e busca. (Lista os personágens e os episódio que participou).
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Foi usada a Api pública https://rickandmortyapi.com/graphql
